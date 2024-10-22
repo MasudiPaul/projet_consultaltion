@@ -7,7 +7,7 @@
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-    <title>RMB Counsulting</title>
+    <title>rmbCounsulting</title>
     <!--meta tags -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
