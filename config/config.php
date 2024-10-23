@@ -9,4 +9,4 @@
     if(!defined('BD_UTILISATEUR')) define ('BD_UTILISATEUR','root');
     if(!defined('BD_PASSWORD')) define ('BD_PASSWORD','');
     if(!defined('BD_NOM')) define ('BD_NOM','c2465120c_bd_gestioncabinet');
-    if(!defined('BD_DSN')) define ('BD_DSN','mysql:host='91.234.194.113';dbname='.BD_NOM);
+    if(!defined('BD_DSN')) define ('BD_DSN','mysql:host='11.110.0.20';dbname='.BD_NOM);
