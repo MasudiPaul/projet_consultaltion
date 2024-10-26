@@ -4,9 +4,6 @@ require_once 'model/Connexion.class.php';
 $req_afficher=Connexion::getConnexion()->query("select* from galerie");
 $req_afficher->execute();
 $donne=$req_afficher->fetchall();
-
-
-
 ?>
 <!DOCTYPE html>
 <html lang="zxx">
