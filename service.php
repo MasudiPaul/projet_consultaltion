@@ -1,7 +1,7 @@
 <?php
 require_once 'config/config.php';
 require_once 'model/Connexion.class.php';
-$req_afficher=Connexion::getConnexion()->query("select* from galerie");
+$req_afficher=Connexion::getConnexion()->query("select* from service");
 $req_afficher->execute();
 $donne=$req_afficher->fetchall();
 
@@ -11,7 +11,7 @@ $donne=$req_afficher->fetchall();
 <!DOCTYPE html>
 <html lang="zxx">
    <head>
-      <title>Job-point a Human Resource Category Bootstrap Responsive Web Template|  :: w3layouts</title>
+      <title>RMB consulting</title>
       <!--meta tags -->
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
