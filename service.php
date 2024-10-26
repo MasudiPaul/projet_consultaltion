@@ -1,7 +1,7 @@
 <?php
 require_once 'config/config.php';
 require_once 'model/Connexion.class.php';
-$req_afficher=Connexion::getConnexion()->query("select* from service");
+$req_afficher=Connexion::getConnexion()->query("select* from galerie");
 $req_afficher->execute();
 $donne=$req_afficher->fetchall();
 
