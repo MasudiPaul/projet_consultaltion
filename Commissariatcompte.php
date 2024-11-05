@@ -7,7 +7,7 @@
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-    <title>RMB Counsulting</title>
+<title>rmb-consulting</title>
     <!--meta tags -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -63,7 +63,7 @@
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <a class="nav-link " href="typography.html">Typography</a>
-                        <a href="gallery.html" class="nav-link">Gallery</a>
+                       
                     </div>
                 </li>
                 <li class="nav-item">
