@@ -8,7 +8,7 @@ $donne=$req_afficher->fetchall();
 <!DOCTYPE html>
 <html lang="zxx">
    <head>
-      <title>rmbconsulting</title>
+      <title>rmb-consulting</title>
       <!--meta tags -->
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
