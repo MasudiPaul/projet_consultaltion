@@ -7,7 +7,7 @@
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-    <title>Job-point a Human Resource Category Bootstrap Responsive Web Template| About :: w3layouts</title>
+<title>rmb-consulting</title>
     <!--meta tags -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
