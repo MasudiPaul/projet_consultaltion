@@ -63,7 +63,7 @@
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <a class="nav-link " href="typography.html">Typography</a>
-                        <a href="gallery.html" class="nav-link">Gallery</a>
+                       
                     </div>
                 </li>
                 <li class="nav-item">
